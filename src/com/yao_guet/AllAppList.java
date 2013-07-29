@@ -79,7 +79,7 @@ public class AllAppList extends Activity implements AllAppsGridView.AllView {
                         AllAppsGridView gridView = (AllAppsGridView)mScrollLayout.getChildAt(i);
                         AppAdapter m_adpater = (AppAdapter)gridView.getAdapter();
                         Log.e(TAG,"getView---001");
-                        m_adpater.stopAnimation();
+                        m_adpater.stopAnimation();//lixiang
                     }
                 } catch (Exception e) {
                     e.printStackTrace();
