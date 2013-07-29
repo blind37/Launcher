@@ -51,7 +51,7 @@ public class AllAppList extends Activity implements AllAppsGridView.AllView {
             if (intent.getAction().equals(Intent.ACTION_PACKAGE_ADDED)) {
                 getPageCount();
                 Log.e(TAG,"intent= "+intent);
-                String packgename = intent.getDataString().substring(8);//lixiang
+                String packgename = intent.getDataString().substring(8);
 
                 if(apps.size()==((pageCount-1)*APP_PAGE_SIZE+1)){
                  addChildView();
