@@ -45,16 +45,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a1b892-70ba-49d5-9ea9-6e2a416c239b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/yao_guet/AllAppList.java" afterPath="$PROJECT_DIR$/src/com/yao_guet/AllAppList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="7a4c145d-5db7-46ea-b517-7058db4a974a" name="New changelist" comment="lx">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/yao_guet/BuildConfig.java" />
@@ -65,9 +57,9 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/fragment.java" changelist="01a1b892-70ba-49d5-9ea9-6e2a416c239b" time="1372217470156" ignored="false" />
     <file path="/AllAppsGridView.java" changelist="01a1b892-70ba-49d5-9ea9-6e2a416c239b" time="1373599754561" ignored="false" />
-    <file path="/AllAppList.java" changelist="01a1b892-70ba-49d5-9ea9-6e2a416c239b" time="1375079409484" ignored="false" />
+    <file path="/AllAppList.java" changelist="01a1b892-70ba-49d5-9ea9-6e2a416c239b" time="1375083245437" ignored="false" />
     <file path="/main.xml" changelist="01a1b892-70ba-49d5-9ea9-6e2a416c239b" time="1372729075765" ignored="false" />
-    <file path="/Dummy.txt" changelist="01a1b892-70ba-49d5-9ea9-6e2a416c239b" time="1375079419359" ignored="false" />
+    <file path="/Dummy.txt" changelist="01a1b892-70ba-49d5-9ea9-6e2a416c239b" time="1375083116859" ignored="false" />
     <file path="/AppAdapter.java" changelist="01a1b892-70ba-49d5-9ea9-6e2a416c239b" time="1373602032713" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="01a1b892-70ba-49d5-9ea9-6e2a416c239b" time="1373268676437" ignored="false" />
     <file path="/ScrollLayout.java" changelist="01a1b892-70ba-49d5-9ea9-6e2a416c239b" time="1373018617381" ignored="false" />
@@ -178,7 +170,7 @@
       <file leaf-file-name="AllAppList.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/yao_guet/AllAppList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="50" selection-start="3412" selection-end="3412" vertical-scroll-proportion="0.88470066">
+            <state line="68" column="49" selection-start="2713" selection-end="2713" vertical-scroll-proportion="0.33702883">
               <folding />
             </state>
           </provider>
@@ -552,7 +544,7 @@
       <workItem from="1374755890187" duration="652000" />
       <workItem from="1374805180915" duration="1882000" />
       <workItem from="1375061154640" duration="6078000" />
-      <workItem from="1375079368531" duration="1296000" />
+      <workItem from="1375079368531" duration="1407000" />
     </task>
     <task id="LOCAL-00001" summary="log">
       <created>1375070289343</created>
@@ -570,11 +562,15 @@
       <created>1375079426234</created>
       <updated>1375079426234</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="log">
+      <created>1375083157078</created>
+      <updated>1375083157078</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="619743000" />
+    <option name="totallyTimeSpent" value="619854000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -696,7 +692,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="log5" />
+    <option name="LAST_COMMIT_MESSAGE" value="log" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -710,11 +706,11 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="log" />
     <MESSAGE value="log1" />
     <MESSAGE value="log2" />
     <MESSAGE value="log3" />
     <MESSAGE value="log5" />
+    <MESSAGE value="log" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -810,7 +806,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yao_guet/AllAppList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="50" selection-start="3412" selection-end="3412" vertical-scroll-proportion="0.88470066">
+        <state line="68" column="49" selection-start="2713" selection-end="2713" vertical-scroll-proportion="0.33702883">
           <folding />
         </state>
       </provider>

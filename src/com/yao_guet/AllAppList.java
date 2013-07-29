@@ -66,7 +66,7 @@ public class AllAppList extends Activity implements AllAppsGridView.AllView {
 //                apps = packageManager.queryIntentActivities(mainIntent, 0);
 //                ResolveInfo info_insert = apps.get(apps.size()-1);
 //                insertData(info_insert);
-                mScrollLayout.invalidate();
+                mScrollLayout.invalidate();//log6
             }
 
             if(intent.getAction().equals(Intent.ACTION_PACKAGE_REMOVED)){
