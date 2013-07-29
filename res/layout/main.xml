@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#00000000"
+        >
+<com.yao_guet.ScrollLayout
+  android:id="@+id/ScrollLayoutTest"
+  android:layout_marginTop="20dp"
+  android:layout_width="fill_parent"
+  android:layout_height="407dp"
+   >
+</com.yao_guet.ScrollLayout>
+<com.yao_guet.Indicator
+        android:id = "@+id/dot"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        >
+    </com.yao_guet.Indicator>
+<FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp">
+    <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/dock_tablet_portrait"
+            android:layout_gravity="bottom"
+            android:paddingBottom="0dp"
+            />
+
+    <com.yao_guet.DockView
+            android:id = "@+id/dock"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_gravity="bottom"
+            android:paddingBottom="-10dp"
+
+            >
+    </com.yao_guet.DockView>
+</FrameLayout>
+</LinearLayout>
